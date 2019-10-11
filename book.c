@@ -1,5 +1,5 @@
 /*
- *  程序说明：
+ *  程序说明：模板
  *  作者：guojn
  */
 #include<stdio.h>
