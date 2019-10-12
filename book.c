@@ -1,7 +1,4 @@
-/*
- *  程序说明：模板
- *  作者：guojn
- */
+//模板
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
