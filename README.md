@@ -1,2 +1,2 @@
 # c-project
-## linuxÏÂcÓïÑÔÁ·Ï°
+## linux c
